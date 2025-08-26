@@ -46,3 +46,15 @@
  
     align-items: center;
 }
+
+/* box3 */
+.nav-search{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+#search{
+    height: 30px;
+    width: 600px;
+    align-items: center;
+}
