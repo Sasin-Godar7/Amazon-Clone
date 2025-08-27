@@ -278,7 +278,7 @@ ul a{
     display: flex;
   justify-content: center;
   align-items: center;
-  gap: 80px;
+  gap: 100px;
 }
 
 .foot-panel3 .logo{
@@ -338,6 +338,6 @@ ul a{
 }
 
 .copyright{
-    padding-top: 5px;
+    padding-top: 9px;
 
 }
