@@ -276,8 +276,9 @@ ul a{
     background-color: #222f3d;
     border-top: 2px solid white ;
     display: flex;
-    justify-content: center;
-    align-items: center;
+  justify-content: center;
+  align-items: center;
+  gap: 80px;
 }
 
 .foot-panel3 .logo{
@@ -285,11 +286,13 @@ ul a{
     background-size: cover;
     height: 40px;
     width: 100px;
+    
 }
 
 .foot-panel3-lang{
    
     height: 30px;
+    width: 90px;
     border: 1px solid #848688;
     border-radius: 3px;
     padding: 6px 18px 6px 8px;
@@ -298,10 +301,11 @@ ul a{
     color: #dddd;
     display: flex;
     align-items: center;
+    justify-content: center;
 }
 
 .foot-panel3-lang i{
-    padding-right: 5px;
+    padding-right: 10px;
 }
 
 .foot-panel3-dollar{
@@ -313,10 +317,11 @@ ul a{
     margin-right: 4px;
     color: #dddd;
     display: flex;
-    justify-content: space-evenly;
+    justify-content: center;
     align-items: center;
 
 }
+
 
 .foot-panel4{
     height: 70px;
