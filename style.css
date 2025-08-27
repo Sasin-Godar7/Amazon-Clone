@@ -207,6 +207,10 @@ emd of the hero section */
     margin-right: 13px;
 
 }
+.box-content p{
+    color: #007185;
+    margin-top: 10px;
+}
 
 .sign-up{
     margin-top: 15px;
@@ -222,9 +226,10 @@ emd of the hero section */
     width: 200px;
     height: 35px;
     border-radius: 5px;
-    background-color: orange;
+    background-color: rgb(18, 87, 110);
     font-size: 1rem;
     font-weight: 700;
+    color: white;
 
 }
 
@@ -232,5 +237,4 @@ emd of the hero section */
     margin-top: 15px;
     font-weight: 600;
     font-size: 0.85rem;
-
 }
